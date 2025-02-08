@@ -1,0 +1,42 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+venv/
+.env/
+*.venv
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.out
+*.tmp
+
+# Ignore data files (CSV, Parquet, etc.)
+data/
+*.csv
+*.parquet
+
+# Ignore AWS credentials (for security)
+.aws/
+*.pem
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Airflow logs and metadata
+airflow/
+dags/__pycache__/
+logs/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
