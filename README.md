@@ -127,6 +127,6 @@ A **detailed architecture diagram** will be uploaded soon. *(To be updated)*
 ---
 
 ## **👥 Contact**
-📧 **Your Name** – [your.email@example.com](mailto:your.email@example.com)  
-📞 **LinkedIn** – [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+📧 **Chiwama Michael Mwela** – [chiwamamwela@gmail.com] 
+📞 **LinkedIn** – [https://www.linkedin.com/in/chiwama-michael-mwela/]
 
